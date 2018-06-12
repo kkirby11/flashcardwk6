@@ -4,6 +4,7 @@ import FlashcardForm from './FlashcardForm';
 import Footer from './Footer';
 import Clock from './Clock';
 import './App.css';
+import './App.scss';
  
 class App extends Component {
   state = {
